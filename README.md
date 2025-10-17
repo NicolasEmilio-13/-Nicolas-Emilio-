@@ -1,6 +1,3 @@
-##☕ Nicolas-Emilio ☕
-
-
 <img width="1834" height="938" alt="Make your README" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTgwZHBncjdlbDhva2IzbzhucDl2MDB3YXVrMG41MWNkc2hkamUzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h08ECPp28eYhRlFlHW/giphy.gif" />
 
 
